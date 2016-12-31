@@ -1,7 +1,10 @@
 package com.youmeek.ssm.manage.vo;
 
 public class JSONResult {
-    
+
+    /**
+     *
+     */
     private String message;
     private String result;
     private String success;
